@@ -1,8 +1,0 @@
-<form enctype="multipart/form-data" action="subirFichero.php" method="POST">
-
-<input type="hidden" name="MAX_FILE_SIZE" value="1000000000" />
-Subir una tabla: <input name="uploadedfile" type="file" /><br />
-Subir tabla de intervalos: <input name="uploadedfileInterval" type="file" /><br />
-<input type="checkbox" name="option1" value="2Variables"> 2 variables<br>
-<input type="submit" value="Subir fichero" />
-</form>
