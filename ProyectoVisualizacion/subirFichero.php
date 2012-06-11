@@ -13,7 +13,7 @@
 // Variables de conexion
 $dbhost = "localhost";
 $dbuser = "root";
-$dbpassword = "cristian";
+$dbpassword = "ecotrab";
 $dbname = "visualizacion";
 
 // Directorio donde se almacenaran los ficheros

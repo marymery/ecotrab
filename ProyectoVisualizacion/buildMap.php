@@ -15,7 +15,7 @@
 // Variables de conexion
 $dbhost = "localhost";
 $dbuser = "root";
-$dbpassword = "cristian";
+$dbpassword = "ecotrab";
 $dbname = "visualizacion";
 
 // Si tiene valor es que se ha pulsado, si no es ""
