@@ -1,5 +1,5 @@
-Old version of ecotrab @ 06/11/2012
-Dojo toolkit map
-Dojo graph
-Uploading php module
-Data set selection php module
+New Implementation of Ecotrab with an N-Tier architecture
+php upload module
+jsp web services
+open layers map
+highcharts
