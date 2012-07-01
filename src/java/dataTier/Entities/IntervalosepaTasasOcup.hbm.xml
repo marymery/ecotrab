@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 01-jul-2012 17:36:50 by Hibernate Tools 3.2.1.GA -->
+<hibernate-mapping>
+  <class catalog="visualizacion" name="dataTier.Entities.IntervalosepaTasasOcup" table="intervalosepa_tasas_ocup">
+    <id name="id" type="java.lang.Integer">
+      <column name="ID"/>
+      <generator class="identity"/>
+    </id>
+    <property name="year" type="int">
+      <column name="year" not-null="true"/>
+    </property>
+    <property name="sexo" type="int">
+      <column name="sexo" not-null="true"/>
+    </property>
+    <property name="estudGr" type="int">
+      <column name="estud_gr" not-null="true"/>
+    </property>
+    <property name="edadGr" type="int">
+      <column name="edad_gr" not-null="true"/>
+    </property>
+    <property name="minT" type="int">
+      <column name="min_t" not-null="true"/>
+    </property>
+    <property name="p20T" type="int">
+      <column name="p20_t" not-null="true"/>
+    </property>
+    <property name="p40T" type="int">
+      <column name="p40_t" not-null="true"/>
+    </property>
+    <property name="p60T" type="int">
+      <column name="p60_t" not-null="true"/>
+    </property>
+    <property name="p80T" type="int">
+      <column name="p80_t" not-null="true"/>
+    </property>
+    <property name="maxT" type="int">
+      <column name="max_t" not-null="true"/>
+    </property>
+  </class>
+</hibernate-mapping>
