@@ -1,5 +1,6 @@
 New Implementation of Ecotrab with an N-Tier architecture
 php upload module
-java web services
-open layers map
-highcharts
+Data Layer implemented using Hibernate Framework
+TODO: java web services
+TODO: open layers map
+TODO: highcharts
