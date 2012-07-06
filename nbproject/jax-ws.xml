@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
   <services>
-    <service name="EcotrabServiceImplementation">
-      <implementation-class>EcotrabJAXWS.EcotrabServiceImplementation</implementation-class>
+    <service name="EcotrabJAXWSServiceImplementation">
+      <implementation-class>EcotrabJAXWS.EcotrabJAXWSServiceImplementation</implementation-class>
     </service>
   </services>
   <clients/>
